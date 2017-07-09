@@ -1,0 +1,42 @@
+.MainHolder
+{
+  padding:20px;
+  border: 1px solid black;
+  width: 300px;
+  box-shadow:2px 2px 20px #ccc;
+  border-radius:30px;
+}
+.MainHolder  img
+{
+ width: 300px;
+ padding-bottom:  20px;
+}
+.MainHolder  div
+{
+ background-color: #e8eaed;
+}
+.MainHolder  div ul
+{
+ list-style-type:none;
+ margin: 0px;
+ padding: 0px;
+}
+.MainHolder  div ul li
+{
+ border-bottom: 1px solid black;
+}
+#BoldFont
+{
+  font-weight:bold;
+}
+#ItalicStyle
+{
+  font-style:italic;
+}
+#BoxBorder
+{
+  border:3px solid black;
+  padding: 20px;
+  background-color: #e0e1e2;
+  border-radius:20px;
+}
